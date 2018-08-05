@@ -1,4 +1,4 @@
-
+#Copyright Aryama Ray
 #Load the companies and rounds data into two data frames and name them companies and rounds2 respectively.
 #Set the location of input files
 #setwd("H:/PG Diploma IN Data Science IIITB/Group Case Study/03_Data Preparation/Input")
