@@ -1,9 +1,0 @@
-PROBLEM STATEMENT AND BUSINESS REQUIREMENT
-
-CredX is a leading credit card provider. It receives thousands of credit card applicants every year. However, in the past few years it has experienced an increase in credit loss for such issued credit cards.
-Our endeavor would be to help CredX to identify the right set of customers using predictive models such that right set of customers are acquired, and credit loss is minimized.
-There are two data sets available namely demographic information and credit performance history about the past applicants. Based on this information we need to analyze and formulate the risk model. This model is to be assessed from financial benefits perspective and following are required to be reported:
-● The implications of using the model for auto approval or rejection, i.e. how many applicants on an average the model would automatically approve or reject.
-● The potential credit loss avoided with the help of the model.
-● Assumptions based on which the model has been built.
-
